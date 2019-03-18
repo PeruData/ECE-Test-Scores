@@ -12,6 +12,6 @@
 
 Output dataset available [here](https://www.dropbox.com/sh/lyliq4hwwn1ntlc/AAAa0RBF419b9ikYy_g7bffba?dl=0).
 
-The following figures can be replicated with the dataset:
+The following figure can be replicated with the dataset:
 
 ![](images/Fig1_density.png)
