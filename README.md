@@ -1,3 +1,5 @@
+Information available from the author at sebastiansardonbisso@gmail.com. Suggestions are welcome. If you have questions on how to complement this data, contact the author and he'll happily give suggestions.
+
 The ECE test (Evaluacion Censal de Estudiantes) is applied on a yearly basis to all second-grade primary students in Peru. The Ministry of Education (MINEDU) publishes a sample of the ECE dataset, containing around 30% of all scores, in which schools identifiers are encoded and.
 
 Public test results are available on the following webpages:
@@ -15,10 +17,10 @@ Public test results are available on the following webpages:
 | 2016 | [MINEDU-ECE 2016](http://umc.minedu.gob.pe/resultadosece2016/) | [Descargar archivos](http://umc.minedu.gob.pe/wp-content/uploads/2017/04/2P_MC_2016-1.zip) |
 
 Instructions:\
-Step 1: Download raw ECE data following the links in the table above. The data is published in SPSS format. Alternatively, the same data translated to Stata format is avaiable [here](https://www.dropbox.com/sh/lyliq4hwwn1ntlc/AAAa0RBF419b9ikYy_g7bffba?dl=0).\
+Step 1: Download raw ECE data following the links in the table above. The data is published in SPSS format. Alternatively, the same data translated to Stata format is avaiable [here](https://www.dropbox.com/sh/h1g0ihd0l0lurt1/AABrIdz-2-JZNDJBR2Pc6sjua?dl=0).\
 Step 2: Clean raw data using the script "Clean ECE (web version).do".
 
-Output dataset available [here](https://www.dropbox.com/sh/lyliq4hwwn1ntlc/AAAa0RBF419b9ikYy_g7bffba?dl=0).
+Output dataset available [here](https://www.dropbox.com/sh/m5ribco4nsoeb7z/AADbYWg_xOyvt4wwDKAhzucWa?dl=0).
 
 The following figure can be replicated with the dataset:
 
