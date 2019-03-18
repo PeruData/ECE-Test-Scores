@@ -9,3 +9,9 @@
 | 2014 | [MINEDU-ECE 2014](http://umc.minedu.gob.pe/evaluacion-censal-de-estudiantes-2014-ece-2014/) | [Descargar archivos de Muestra de Control ECE 2014](http://umc.minedu.gob.pe/wp-content/uploads/2015/02/MC2014.zip) |
 | 2015 | [MINEDU-ECE 2015](http://umc.minedu.gob.pe/evaluacion-censal-de-estudiantes-ece-2015/) | [Descargar Archivos de Muestra de Control ECE 2015 Primaria](http://umc.minedu.gob.pe/wp-content/uploads/2016/03/muestralECE2015.zip) |
 | 2016 | [MINEDU-ECE 2016](http://umc.minedu.gob.pe/resultadosece2016/) | [Descargar archivos](http://umc.minedu.gob.pe/wp-content/uploads/2017/04/2P_MC_2016-1.zip) |
+
+Output dataset available [here](https://www.dropbox.com/sh/lyliq4hwwn1ntlc/AAAa0RBF419b9ikYy_g7bffba?dl=0).
+
+The following figures can be replicated with the dataset:
+
+![](images/Fig1_density.png)
