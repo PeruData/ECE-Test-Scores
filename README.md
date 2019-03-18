@@ -1,5 +1,3 @@
-Information available from the author at sebastiansardonbisso@gmail.com. Suggestions are welcome. If you have questions on how to complement this data, contact the author and he'll happily give suggestions.
-
 The ECE test (Evaluacion Censal de Estudiantes) is applied on a yearly basis to all second-grade primary students in Peru. The Ministry of Education (MINEDU) publishes a sample of the ECE dataset, containing around 30% of all scores, in which schools identifiers are encoded and.
 
 Public test results are available on the following webpages:
@@ -31,3 +29,4 @@ The following figure can be replicated with the dataset:
   <img src="images/Fig3_dep_lines.png" width="430" /> 
 </p>
 
+Information available from the author at sebastiansardonbisso@gmail.com. Suggestions are welcome. This dataset can be augmented with the Censo Escolar, which provides a wide array of school characteristics (i.e. teachers per student in each school). If you are interested in doing so, the author can provide further assistance.
