@@ -25,8 +25,8 @@ The following figure can be replicated with the dataset:
 ![](images/Fig1_density.png)
 
 <p float="left">
-  <img src="images/Fig2_dep_map.png" width="430" />
-  <img src="images/Fig3_dep_lines.png" width="430" /> 
+  <img src="images/Fig2_dep_map.png" width="440" />
+  <img src="images/Fig3_dep_lines.png" width="440" /> 
 </p>
 
 Information available from the author at sebastiansardonbisso@gmail.com. Suggestions are welcome. This dataset can be augmented with the Censo Escolar, which provides a wide array of school characteristics (i.e. teachers per student in each school). If you are interested in doing so, the author can provide further assistance.
