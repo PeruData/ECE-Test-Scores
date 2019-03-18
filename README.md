@@ -26,7 +26,7 @@ The following figure can be replicated with the dataset:
 ![](images/Fig1_density.png)
 
 <p float="left">
-  <img src="images/Fig2_dep_map.png" width="420" />
-  <img src="images/Fig3_dep_lines.png" width="420" /> 
+  <img src="images/Fig2_dep_map.png" width="430" />
+  <img src="images/Fig3_dep_lines.png" width="430" /> 
 </p>
 
