@@ -20,7 +20,7 @@ Step 2: Clean raw data using the script "Clean ECE (web version).do".
 
 Output dataset available [here](https://www.dropbox.com/sh/m5ribco4nsoeb7z/AADbYWg_xOyvt4wwDKAhzucWa?dl=0).
 
-The following figure can be replicated with the dataset:
+The following figures can be replicated with the dataset:
 
 ![](images/Fig1_density.png)
 
