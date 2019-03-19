@@ -29,4 +29,4 @@ The following figures can be replicated with the dataset:
   <img src="images/Fig3_dep_lines.png" width="440" /> 
 </p>
 
-Information available from the author at sebastiansardonbisso@gmail.com. Suggestions are welcome. This dataset can be augmented with the Censo Escolar, which provides a wide array of school characteristics (i.e. teachers per student in each school). If you are interested in doing so, the author can provide further assistance.
+Information available from the author at sebastiansardonbisso@gmail.com. Suggestions are welcome. This dataset can be augmented with the Censo Escolar, which provides a wide array of school characteristics (e.g. teachers per student in each school). If you are interested in doing so, the author can provide further assistance.
