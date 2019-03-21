@@ -23,7 +23,7 @@ Output dataset available [here](https://www.dropbox.com/sh/m5ribco4nsoeb7z/AADbY
 The following figures can be replicated with the dataset:
 
 <p float="left">
-  <img src="images/Fig1_density.png" width="800" />
+  <img src="images/Fig1_density.png" width="840" />
 </p>
 
 
