@@ -22,7 +22,10 @@ Output dataset available [here](https://www.dropbox.com/sh/m5ribco4nsoeb7z/AADbY
 
 The following figures can be replicated with the dataset:
 
-![](images/Fig1_density.png)
+<p float="left">
+  <img src="images/Fig1_density.png" width="800" />
+</p>
+
 
 <p float="left">
   <img src="images/Fig2_dep_map.png" width="440" />
